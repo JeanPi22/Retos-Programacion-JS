@@ -7,8 +7,6 @@ NO se tienen en cuenta los espacios, signos de puntuación y tildes.
 Ejemplo: Ana lleva al oso la avellana.
  */
 
-const phrase = 'Yo hago yoga hoy'
-
 function palindrome (phrase) {
   
   //Convertir texto en minúscula y quitar espacios.
